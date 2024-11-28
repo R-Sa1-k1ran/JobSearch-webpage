@@ -1,0 +1,36 @@
+#brandImg{
+    color: deepskyblue;
+}
+#para{
+    font-size: 50px;
+}
+#signUp{
+    margin-top: 80px;
+}
+.arrow-btn {
+    font-size: 22px;
+    background-color: #31b4d8; /* Light gray background */
+    border: none;
+    border-radius: 50%;
+    width: 30px;
+    height: 30px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    cursor: pointer;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.2);
+  }
+
+  .arrow-btn:hover {
+    background-color: #1287fc; /* Slightly darker on hover */
+  }
+  .social-icons a {
+    text-decoration: none;
+    color: #343a40;
+    margin: 0 10px;
+    font-size: 2rem;
+    transition: color 0.3s;
+  }
+  .social-icons a:hover {
+    color: #007bff;
+  }
